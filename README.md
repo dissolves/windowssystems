@@ -1,14 +1,12 @@
-## Windows Systems | By Dissovled
+## Windows Systems
 
-Objective:
+A Wiki and code repo for windows systems
 
-To maintain a public note and script repository concering Windows Systems.
-To produce a great simple Markup Wiki that can be easily referenced
-To not forget the basics and celebrate the complex
+## Code List
+
+- Custom Event Viewer Filter XMLs for Windows 10 
 
 [Wiki](https://github.com/dissolves/windowssystems/wiki)
-
-Contains:
-* Default User Profile Configuration
-* Group Policy
-* More to come
+- User Default profiles
+- NTFS and Share Folder 
+- Group Policy
